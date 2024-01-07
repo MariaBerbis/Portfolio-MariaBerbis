@@ -61,7 +61,7 @@ img {
 }
 
 .content-container {
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 
 .content-container h1 {
@@ -115,6 +115,14 @@ img {
   text-align: center;
 }
 
+.logo {
+  width: 120px;
+}
+
+.active {
+  color: var(--branding-color) !important;
+}
+
 @media (max-width: 900px) {
   .hero {
     padding-bottom: 20px;
@@ -146,8 +154,4 @@ img {
 
 .ai-project-image {
   padding-top: 150px;
-}
-
-.logo {
-  height: 80px;
 }

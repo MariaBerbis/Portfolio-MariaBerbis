@@ -111,6 +111,10 @@ img {
   padding: 100px 60px;
 }
 
+.contact {
+  text-align: center;
+}
+
 @media (max-width: 900px) {
   .hero {
     padding-bottom: 20px;

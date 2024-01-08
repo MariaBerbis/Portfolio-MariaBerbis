@@ -78,6 +78,11 @@ img {
   font-family: var(--default-font-family);
 }
 
+.project-images img:hover {
+  transform: scale(1.05);
+  transition: all 200ms ease-in-out;
+}
+
 .content {
   margin: 30px;
 }
@@ -147,7 +152,7 @@ footer .contact-box p {
 
 footer .email-link {
   color: black;
-  font-size: 24px;
+  font-size: 18px;
   text-align: center;
 }
 

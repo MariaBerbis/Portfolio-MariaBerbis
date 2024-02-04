@@ -9,6 +9,10 @@ body {
   font-family: var(--default-font-family);
 }
 
+.navbar {
+  height: 150px;
+}
+
 h1,
 h2,
 h3,
@@ -94,6 +98,7 @@ img {
 }
 
 .content p {
+  color: #272142;
   font-size: 14px;
   margin: 0;
 }
@@ -122,7 +127,7 @@ a.btn-branding-outline:hover {
 }
 
 .project-description {
-  padding: 100px 60px;
+  padding: 80px 60px;
 }
 
 .profile-picture {
@@ -165,7 +170,7 @@ footer .contact-box p {
 }
 
 footer .email-link {
-  color: black;
+  color: #272142;
   font-size: 18px;
   text-align: center;
 }

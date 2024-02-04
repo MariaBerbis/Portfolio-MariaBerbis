@@ -65,7 +65,7 @@ img {
 }
 
 .content-container {
-  padding: 40px 20px;
+  padding: 40px 20px 0;
 }
 
 .content-container h1 {
@@ -116,6 +116,11 @@ img {
   padding: 15px 30px;
 }
 
+a.btn-branding-outline:hover {
+  background: var(--branding-color);
+  color: white;
+}
+
 .project-description {
   padding: 100px 60px;
 }
@@ -126,6 +131,11 @@ img {
 
 .contact {
   text-align: center;
+}
+
+a.contact-me:hover {
+  border: 1px solid var(--branding-color);
+  color: var(--branding-color);
 }
 
 .logo {

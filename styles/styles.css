@@ -156,6 +156,15 @@ a.contact-me:hover {
 
 }
 
+.tools {
+  padding: 30px;
+}
+
+.toologos {
+  margin: 12px;
+  padding: 8px;
+}
+
 footer {
   margin: 50px 50px 10px;
 }

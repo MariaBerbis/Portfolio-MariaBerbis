@@ -1,5 +1,5 @@
 :root {
-  --branding-color: #55CDD6;
+  --branding-color: #237C82;
   --secondary-color: #f9f7fe;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
@@ -144,7 +144,7 @@ a.contact-me:hover {
 }
 
 .logo {
-  max-width: 200px;
+  max-width: 180px;
 }
 
 .active {

@@ -256,4 +256,8 @@ p a {
   .profile-picture {
     margin-left: 5px;
   }
+
+  .resume-maria {
+    display: none;
+  }
 }

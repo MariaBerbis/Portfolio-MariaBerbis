@@ -204,7 +204,11 @@ footer .social-links a:hover {
 }
 
 .ai-project-image {
-  padding-top: 150px;
+  padding-top: 80px;
+}
+
+.dictionary-project {
+  width: 700px;
 }
 
 p a {
